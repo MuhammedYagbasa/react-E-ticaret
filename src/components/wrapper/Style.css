@@ -1,0 +1,18 @@
+.wrapper {
+    text-align: center;
+}
+
+.wrapper .img {
+    margin: auto;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    margin-bottom: 20px;
+}
+.wrapper .img i {
+ font-size: 25px;
+ color:#0f3460;
+}
+.wrapper .product{
+    padding: 30px;
+}
